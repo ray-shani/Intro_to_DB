@@ -1,3 +1,6 @@
+# MySQLServer.py
+
+import mysql.connector # Explicitly importing mysql.connector
 from mysql.connector import Error
 
 def create_database():
